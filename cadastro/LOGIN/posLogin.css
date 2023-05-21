@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background: yellow;
+  }
+  
+
+
+
+.container_log{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.h1_Pagina{
+    color: green;
+}
+
+.h2_Pagina{
+
+}
+
+.a_Pagina{
+    
+}
